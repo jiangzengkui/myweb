@@ -9,4 +9,7 @@ package com.jyj.demo;
  * @updateRemark:
  */
 public class T {
+    public static void main(String[] args){
+
+    }
 }
