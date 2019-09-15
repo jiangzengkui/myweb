@@ -10,7 +10,9 @@ package com.jyj.demo;
  */
 public class Demo {
     public static  String getStr(){
+
         return "dddd得到选择性想cc333333";
        // return "dddd得到选择性想----------";
+
     }
 }
